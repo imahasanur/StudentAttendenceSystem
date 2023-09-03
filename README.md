@@ -1,6 +1,7 @@
 # Student Attendence System 
 
-It is a console Application
+It is a console Application. An Admin can create, update, delete Teacher, Course, Student & Teacher and Student course assigning and set class schedule.
+Student can give attendence in his class and Teacher can check attendence report.
 
 ## Features
 
@@ -11,13 +12,13 @@ In this project there are three type User.
 
 Admin User: 
 1. Admin can login and create & can update, delete:
-    Teacher (Name, Username, Password)
-    Course (Course Name, Fees)
-    Student (Name, Username, Password)
-2. Admin can assign a teacher in a course & can update, delete.
-3. Admin can assign students in a course & can update, delete.
-4. Admin can set class schedule for a course.
-5. Class schedule consists of day and time and total number of classes.
+   * Teacher (Name, Username, Password)
+   * Course (Course Name, Fees)
+   * Student (Name, Username, Password)
+3. Admin can assign a teacher in a course & can update, delete.
+4. Admin can assign students in a course & can update, delete.
+5. Admin can set class schedule for a course.
+6. Class schedule consists of day and time and total number of classes.
     For example, Sunday 8PM - 10PM, Monday 7PM - 9PM, 20 Classes.
 
 Student User:
